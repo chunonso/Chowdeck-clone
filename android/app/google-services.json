@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827435195551",
+    "project_id": "chowdeck-refix",
+    "storage_bucket": "chowdeck-refix.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827435195551:android:2b27351b840e7b7d6f16aa",
+        "android_client_info": {
+          "package_name": "com.example.chow_deck_refix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsF6u6abFE-_0-olxpNwkVEF8QIaISgSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

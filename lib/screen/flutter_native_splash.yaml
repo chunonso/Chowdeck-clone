@@ -1,0 +1,12 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: true
+
+  background_image: "assets/background_dark.png"
+  image: "assets/chowdeck_logo.png"
+  # branding: "assets/chowdeck_logo.png"
+
+  
+  
+   
